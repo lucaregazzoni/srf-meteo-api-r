@@ -1,4 +1,4 @@
-# srf-meteo-api-r
+# srf-weather-api-r
 This repository provides an example script for authentication, querying forecast geolocation-based weather information using the [SRF Weather API](https://developer.srgssr.ch/api-catalog/srf-weather#/). Currently, there is a *freemium* offer that allows for up to 50 requests per day for free (which usually is enough for simple data analyses or IoT applications)
 
 ## Getting consumer key and secrets
